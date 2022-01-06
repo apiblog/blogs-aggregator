@@ -1,9 +1,9 @@
 {
 "Blogs": [
   {
-    "title": "9designs",
-    "url": "https://99designs.com/blog/engineering/",
-    "rss": "https://99designs.com/blog/feed/"
+    "title": "Cloudflare",
+    "url": "https://blog.cloudflare.com/",
+    "rss": "https://blog.cloudflare.com/rss/"
   },
   {
     "title": "Uber",
@@ -14,6 +14,11 @@
     "title": "Facebook",
     "url": "https://engineering.fb.com/",
     "rss": "https://code.facebook.com/posts/rss/"
-  }
+  },
+  {
+    "title": "Airtable ",
+    "url": "https://blog.airtable.com/",
+    "rss": "https://blog.airtable.com/rss/"
+  },
   ]
 }
