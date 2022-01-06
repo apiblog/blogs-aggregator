@@ -1,0 +1,19 @@
+{
+"Blogs": [
+  {
+    "title": "9designs",
+    "url": "https://99designs.com/blog/engineering/",
+    "rss": "https://99designs.com/blog/feed/"
+  },
+  {
+    "title": "Uber",
+    "url": "http://eng.uber.com/",
+    "rss": "https://eng.uber.com/feed/"
+  },
+  {
+    "title": "Facebook",
+    "url": "https://engineering.fb.com/",
+    "rss": "https://code.facebook.com/posts/rss/"
+  },
+  ]
+}
