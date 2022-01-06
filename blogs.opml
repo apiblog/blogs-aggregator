@@ -8,7 +8,7 @@
       <outline type="rss" text="8th Light" title="8th Light" xmlUrl="https://8thlight.com/blog/feed/atom.xml" htmlUrl="https://8thlight.com/blog/"/>
       <outline type="rss" text="99designs" title="99designs" xmlUrl="https://99designs.com/blog/feed/" htmlUrl="https://99designs.com/blog/engineering/"/>
       <outline type="rss" text="Uber" title="Uber" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
-      <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.fb.com/feed/" htmlUrl="https://code.facebook.com/posts/"/>
+      <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.facebook.com/posts/rss/" htmlUrl="https://engineering.fb.com/"/>
     </outline>
   </body>
 </opml>
