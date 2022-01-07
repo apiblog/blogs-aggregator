@@ -206,11 +206,6 @@
          "rss":"https://stripe.com/blog/feed.rss"
       },
       {
-         "title":"Twilio",
-         "url":"https://www.twilio.com/blog/",
-         "rss":"https://www.twilio.com/blog/feed"
-      },
-      {
          "title":"Twitter",
          "url":"https://blog.twitter.com/engineering/en_us",
          "rss":"https://blog.twitter.com/engineering/en_us/blog.rss"
