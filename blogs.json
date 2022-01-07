@@ -1,24 +1,129 @@
 {
-"Blogs": [
-  {
-    "title": "Cloudflare",
-    "url": "https://blog.cloudflare.com/",
-    "rss": "https://blog.cloudflare.com/rss/"
-  },
-  {
-    "title": "Uber",
-    "url": "http://eng.uber.com/",
-    "rss": "https://eng.uber.com/feed/"
-  },
-  {
-    "title": "Facebook",
-    "url": "https://engineering.fb.com/",
-    "rss": "https://code.facebook.com/posts/rss/"
-  },
-  {
-    "title": "Airtable",
-    "url": "https://blog.airtable.com/",
-    "rss": "https://blog.airtable.com/rss/"
-  }
-  ]
+   "Blogs":[
+      {
+         "title":"Cloudflare",
+         "url":"https://blog.cloudflare.com/",
+         "rss":"https://blog.cloudflare.com/rss/"
+      },
+      {
+         "title":"Uber",
+         "url":"http://eng.uber.com/",
+         "rss":"https://eng.uber.com/feed/"
+      },
+      {
+         "title":"Facebook",
+         "url":"https://engineering.fb.com/",
+         "rss":"https://code.facebook.com/posts/rss/"
+      },
+      {
+         "title":"Airtable",
+         "url":"https://blog.airtable.com/",
+         "rss":"https://blog.airtable.com/rss/"
+      },
+      {
+         "title":"Affinity",
+         "url":"https://build.affinity.co/",
+         "rss":"https://build.affinity.co/feed"
+      },
+      {
+         "title":"Airbrake",
+         "url":"https://airbrake.io/blog/",
+         "rss":"https://airbrake.io/blog/feed"
+      },
+      {
+         "title":"Airbnb",
+         "url":"https://medium.com/airbnb-engineering",
+         "rss":"https://medium.com/feed/airbnb-engineering"
+      },
+      {
+         "title":"Algolia",
+         "url":"https://blog.algolia.com/",
+         "rss":"https://blog.algolia.com/feed/"
+      },
+      {
+         "title":"Atlassian",
+         "url":"https://developer.atlassian.com/blog/",
+         "rss":"https://developer.atlassian.com/blog/feed.xml"
+      },
+      {
+         "title":"Auth0",
+         "url":"https://auth0.com/blog/",
+         "rss":"https://auth0.com/blog/rss.xml"
+      },
+      {
+         "title":"AWS",
+         "url":"https://aws.amazon.com/blogs/aws/",
+         "rss":"https://aws.amazon.com/blogs/aws/feed/"
+      },
+      {
+         "title":"Binary Studio",
+         "url":"https://binary-studio.com/blog/",
+         "rss":"https://binary-studio.com/blog/rss"
+      },
+      {
+         "title":"Buzzfeed",
+         "url":"https://www.buzzfeed.com/techblog",
+         "rss":"https://tech.buzzfeed.com/feed"
+      },
+      {
+         "title":"Canva",
+         "url":"https://canvatechblog.com/",
+         "rss":"https://canvatechblog.com/feed"
+      },
+      {
+         "title":"Cloudera",
+         "url":"https://blog.cloudera.com/",
+         "rss":"https://blog.cloudera.com/feed/"
+      },
+      {
+         "title":"CockroachDB",
+         "url":"https://www.cockroachlabs.com/blog/",
+         "rss":"https://www.cockroachlabs.com/blog/index.xml"
+      },
+      {
+         "title":"Coinbase",
+         "url":"https://blog.coinbase.com/",
+         "rss":"https://blog.coinbase.com/feed"
+      },
+      {
+         "title":"Commercetools",
+         "url":"https://techblog.commercetools.com/",
+         "rss":"https://techblog.commercetools.com/feed"
+      },
+      {
+         "title":"Confluent",
+         "url":"https://www.confluent.io/blog",
+         "rss":"https://www.confluent.io/feed/"
+      },
+      {
+         "title":"Criteo",
+         "url":"https://medium.com/criteo-engineering",
+         "rss":"https://medium.com/feed/criteo-engineering"
+      },
+      {
+         "title":"Databricks",
+         "url":"https://databricks.com/blog",
+         "rss":"https://databricks.com/feed"
+      },
+      {
+         "title":"Deliveroo",
+         "url":"https://deliveroo.engineering/",
+         "rss":"http://deliveroo.engineering/feed.xml"
+      },
+      {
+         "title":"Discord",
+         "url":"https://discord.com/blog",
+         "rss":"https://discord.com/blog/rss.xml"
+      },
+      {
+         "title":"DoorDash",
+         "url":"https://doordash.engineering/blog/",
+         "rss":"https://doordash.engineering/blog/feed/"
+      },
+      {
+         "title":"Dropbox",
+         "url":"https://dropbox.tech/",
+         "rss":"https://dropbox.tech/feed"
+      }
+   ]
 }
