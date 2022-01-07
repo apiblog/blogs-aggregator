@@ -75,11 +75,7 @@
          "url":"https://blog.cloudera.com/",
          "rss":"https://blog.cloudera.com/feed/"
       },
-      {
-         "title":"CockroachDB",
-         "url":"https://www.cockroachlabs.com/blog/",
-         "rss":"https://www.cockroachlabs.com/blog/index.xml"
-      },
+
       {
          "title":"Coinbase",
          "url":"https://blog.coinbase.com/",
@@ -170,11 +166,7 @@
          "url":"https://netflixtechblog.com/",
          "rss":"https://netflixtechblog.com/feed"
       },
-      {
-         "title":"Segment",
-         "url":"https://segment.com/blog/engineering/",
-         "rss":"https://segment.com/blog/blog/rss.xml"
-      },
+
       {
          "title":"Shopify",
          "url":"https://shopify.engineering/",
@@ -189,11 +181,6 @@
          "title":"Spotify",
          "url":"https://engineering.atspotify.com/",
          "rss":"https://engineering.atspotify.com/feed/"
-      },
-      {
-         "title":"Square",
-         "url":"https://developer.squareup.com/blog/",
-         "rss":"https://developer.squareup.com/blog/rss.xml"
       },
       {
          "title":"Stripe",
