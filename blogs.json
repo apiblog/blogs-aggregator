@@ -141,11 +141,6 @@
          "rss":"https://githubengineering.com/atom.xml"
       },
       {
-         "title":"GoCardless",
-         "url":"https://gocardless.com/resources/",
-         "rss":"https://gocardless.com/content-platform/rss/resources.xml"
-      },
-      {
          "title":"HashiCorp",
          "url":"https://www.hashicorp.com/blog/",
          "rss":"https://www.hashicorp.com/blog/feed.xml"
