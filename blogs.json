@@ -124,6 +124,96 @@
          "title":"Dropbox",
          "url":"https://dropbox.tech/",
          "rss":"https://dropbox.tech/feed"
+      },
+      {
+         "title":"Etsy",
+         "url":"https://codeascraft.com/",
+         "rss":"https://codeascraft.com/feed/"
+      },
+      {
+         "title":"Future Processing",
+         "url":"https://www.future-processing.com/blog/",
+         "rss":"https://www.future-processing.com/blog/feed/"
+      },
+      {
+         "title":"GitHub",
+         "url":"https://githubengineering.com/",
+         "rss":"https://githubengineering.com/atom.xml"
+      },
+      {
+         "title":"GoCardless",
+         "url":"https://gocardless.com/resources/",
+         "rss":"https://gocardless.com/content-platform/rss/resources.xml"
+      },
+      {
+         "title":"HashiCorp",
+         "url":"https://www.hashicorp.com/blog/",
+         "rss":"https://www.hashicorp.com/blog/feed.xml"
+      },
+      {
+         "title":"Instacart",
+         "url":"https://tech.instacart.com/",
+         "rss":"https://tech.instacart.com/feed"
+      },
+      {
+         "title":"Instagram",
+         "url":"https://instagram-engineering.com/",
+         "rss":"https://instagram-engineering.com/feed"
+      },
+      {
+         "title":"Intercom",
+         "url":"https://www.intercom.com/blog/engineering/",
+         "rss":"https://www.intercom.com/blog/engineering/feed"
+      },
+      {
+         "title":"Microsoft Python Engineering",
+         "url":"https://devblogs.microsoft.com/python/",
+         "rss":"https://devblogs.microsoft.com/python/feed/"
+      },
+      {
+         "title":"Netflix",
+         "url":"https://netflixtechblog.com/",
+         "rss":"https://netflixtechblog.com/feed"
+      },
+      {
+         "title":"Segment",
+         "url":"https://segment.com/blog/engineering/",
+         "rss":"https://segment.com/blog/blog/rss.xml"
+      },
+      {
+         "title":"Shopify",
+         "url":"https://shopify.engineering/",
+         "rss":"https://shopify.engineering/blog.atom"
+      },
+      {
+         "title":"Slack",
+         "url":"https://slack.engineering/",
+         "rss":"https://slack.engineering/feed"
+      },
+      {
+         "title":"Spotify",
+         "url":"https://engineering.atspotify.com/",
+         "rss":"https://engineering.atspotify.com/feed/"
+      },
+      {
+         "title":"Square",
+         "url":"https://developer.squareup.com/blog/",
+         "rss":"https://developer.squareup.com/blog/rss.xml"
+      },
+      {
+         "title":"Stripe",
+         "url":"https://stripe.com/blog",
+         "rss":"https://stripe.com/blog/feed.rss"
+      },
+      {
+         "title":"Twilio",
+         "url":"https://www.twilio.com/blog/",
+         "rss":"https://www.twilio.com/blog/feed"
+      },
+      {
+         "title":"Twitter",
+         "url":"https://blog.twitter.com/engineering/en_us",
+         "rss":"https://blog.twitter.com/engineering/en_us/blog.rss"
       }
    ]
 }
