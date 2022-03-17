@@ -26,11 +26,6 @@
          "rss":"https://build.affinity.co/feed"
       },
       {
-         "title":"Airbrake",
-         "url":"https://airbrake.io/blog/",
-         "rss":"https://airbrake.io/blog/feed"
-      },
-      {
          "title":"Airbnb",
          "url":"https://medium.com/airbnb-engineering",
          "rss":"https://medium.com/feed/airbnb-engineering"
